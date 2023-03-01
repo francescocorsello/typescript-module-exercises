@@ -1,1 +1,1 @@
-# Un branch per esercizio
+# Una cartella per esercizio
